@@ -36,6 +36,43 @@
       }
     ]
   },
+	{
+	 "divisions": {
+		 "ocd-division/country:us/state:tx/sldl:1": {
+			 "name": "Texas State House district 1",
+			 "overwrite": "true",
+			 "officeIndices": [
+				 0
+			 ]
+		 }
+	 },
+	 "offices": [
+		 {
+			 "name": "TX State House District 1",
+			 "divisionId": "ocd-division/country:us/state:tx/sldl:1",
+			 "roles": [
+				 "statelevel_lower"
+			 ],
+			 "officialIndices": [
+				 0
+			 ]
+		 }
+	 ],
+	 "officials": [
+		 {
+			 "name": "Amy Chin-Lai",
+			 "party": "Democratic",
+			 "overwrite_ocdid": "ocd-division/country:us/state:tx/sldl:1",
+			 "overwrite_name": "Gary VanDeaver"
+		 }
+	 ],
+	 "emails": [
+		 "amy@actionnetwork.org"
+	 ],
+	 "phones": [
+		 "(214) 493-8888"
+	 ]
+ },
   {
     "divisions": {
       "ocd-division/country:us/state:al/sldl:81": {
