@@ -2203,7 +2203,7 @@
     "api_uri": "https://api.propublica.org/congress/v1/members/C001121.json",
     "at_large": false
   },
-  "C001078": {
+  "W000831": {
     "example_address": "4308 Ridgewood Center Drive",
     "address": "4308 Ridgewood Center Drive",
     "example_city": "Woodbridge",
@@ -2216,24 +2216,16 @@
     "district": "11",
     "type": "Rep",
     "mark": "true",
-    "name": "Gerry Connolly",
+    "name": "James R. Walkinshaw",
     "ocd_id": "ocd-division/country:us/state:va/cd:11",
-    "id": "C001078",
-    "first_name": "Gerry",
-    "middle_name": "E.",
-    "last_name": "Connolly",
+    "id": "W000831",
+    "first_name": "James",
+    "middle_name": "R.",
+    "last_name": "Walkinshaw",
     "suffix": null,
     "role": "Representative",
     "gender": "M",
-    "party": "D",
-    "times_topics_url": null,
-    "twitter_id": "GerryConnolly",
-    "facebook_account": "CongressmanGerryConnolly",
-    "youtube_id": "repconnolly",
-    "seniority": "16",
-    "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/C001078.json",
-    "at_large": false
+    "party": "D"
   },
   "C001080": {
     "example_address": "87 North Raymond Avenue",
@@ -9327,7 +9319,7 @@
     "api_uri": "https://api.propublica.org/congress/v1/members/A000381.json",
     "at_large": false
   },
-  "G000551": {
+  "G000606": {
     "example_address": "411 North Central Avenue",
     "address": "411 North Central Avenue",
     "example_city": "Phoenix",
@@ -9340,24 +9332,16 @@
     "district": "7",
     "type": "Rep",
     "mark": "true",
-    "name": "Raúl Grijalva",
+    "name": "Adelita Grijalva",
     "ocd_id": "ocd-division/country:us/state:az/cd:7",
-    "id": "G000551",
-    "first_name": "Raul",
-    "middle_name": "M.",
+    "id": "G000606",
+    "first_name": "Adelita",
+    "middle_name": "",
     "last_name": "Grijalva",
     "suffix": null,
     "role": "Representative",
-    "gender": "M",
-    "party": "D",
-    "times_topics_url": null,
-    "twitter_id": "RepraulGrijalva",
-    "facebook_account": "Rep.Grijalva",
-    "youtube_id": "raulgrijalvaaz07",
-    "seniority": "22",
-    "next_election": "2024",
-    "api_uri": "https://api.propublica.org/congress/v1/members/G000551.json",
-    "at_large": false
+    "gender": "F",
+    "party": "D"
   },
   "P000197": {
     "example_address": "90 7th Street",
